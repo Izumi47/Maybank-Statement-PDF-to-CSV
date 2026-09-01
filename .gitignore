@@ -18,7 +18,8 @@ htmlcov/
 Credit Statements/
 Debit Statements/
 output/
-Maybank Statement.xlsx
+*.xlsx
+*.csv
 
 # Editor and operating-system files
 .vscode/
